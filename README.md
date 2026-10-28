@@ -1,3 +1,9 @@
-# Test
+# Smile Face README
 
-Started with technicalskills.
+## Introduction
+
+A simple smiley face is a representation of happiness and joy.
+
+## Code
+
+Smiley face: :)
